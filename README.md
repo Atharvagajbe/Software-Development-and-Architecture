@@ -32,7 +32,7 @@ To ensure consistency across the microservices, the following shared components 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nandanmuruli/StudentManagementSystem.git
+   https://github.com/Atharvagajbe/Software-Development-and-Architecture.git
    ```
 2. Navigate to the project root and install dependencies:
    ```bash
